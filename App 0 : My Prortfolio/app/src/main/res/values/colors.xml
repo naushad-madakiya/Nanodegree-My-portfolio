@@ -1,0 +1,8 @@
+<resources>
+
+    <color name="button_background_color">#F08C35</color>
+    <color name="button_selected_color">#88F08C35</color>
+
+    <color name="capstone_button_background_color">#D8002D</color>
+    <color name="capstone_button_selected_color">#88D8002D</color>
+</resources>
